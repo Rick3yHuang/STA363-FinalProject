@@ -1,0 +1,53 @@
+---
+title: "STA363SecAFinalProject"
+author: "Rickey huang"
+date: "5/9/2021"
+output: pdf_document
+citation_package: biblatex
+bibliography: Exported Items.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+# Library every required packages here
+```
+
+## Abstract
+
+## Section 1: Research Question/Motivation
+
+
+
+## Section 2: Data Cleaning
+
+
+
+```{r}
+# Loading the data set
+Airline <- read.csv("~/Desktop/2021Spring/STA-363/Projects/Final Project/STA363-FinalProject/Data/Airline Passenger Satisfaction/Airline Satisfaction.csv")
+```
+
+```{r}
+
+```
+
+## Data Visualization
+
+
+## Method 1
+
+
+## Method 2
+
+
+## Conclusions
+
+
+## Works Cited Page
+
+
+
